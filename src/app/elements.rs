@@ -1,4 +1,4 @@
-use crate::{Window, App};
+use super::{Window, App};
 use std::sync::{Arc, Mutex};
 use std::cmp;
 use std::thread;
